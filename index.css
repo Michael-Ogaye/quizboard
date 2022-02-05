@@ -8,7 +8,7 @@ width: 100%;
 display: flex;
 justify-content: space-between;
 height: 15vh;
-background-color: navy;
+background-color:#05041f;
 align-items: center;
 padding: 3vw;
 margin-bottom: 10vh;
@@ -47,7 +47,6 @@ border: none;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    background-color: pink;
     align-items: center;
     height: 50vh;
     width: 100%;
@@ -102,7 +101,98 @@ border: none;
     width: 50%;
     text-align: center;
     font-size:2vw ;
+    border-radius: 20vw;
     
 
 }
+.board{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: auto;
+    width: 100%;
+    margin-bottom: 10vh;
 
+
+}
+.board h3{
+    align-self: center;
+    font-size: 3vw;
+    font-weight: lighter;
+    font-family: 'Times New Roman', Times, serif;
+}
+hr{
+    border-bottom: 7px solid grey;
+}
+form{
+    margin-left: 4vw;
+    margin-top: 5vh;
+    height: 105vh;
+    padding: 4vw;
+    width: 50%;
+    border: 1px solid black;
+
+}
+form input, form button{
+    margin: 0.8vw;
+}
+form p{
+    font-size:1.8vw;
+}
+form button{
+    background-color: rgb(45, 235, 45);
+    width: 20vw;
+    height: 5vw;
+    color: white;
+    font-size: 2rem;
+    border: none;
+    border-radius: 2vw; 
+}
+.dow{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 18vh;
+}
+.task{
+    display: flex;
+    justify-content: space-around;
+    align-items: baseline;
+
+}
+.dow button{
+    width: 15%;
+    align-self: center;
+    padding: 1vw;
+    background-color: #05041f;
+    color: white;
+    border: none;
+    border-radius: 1vw;
+    font-size: 2rem;
+}
+.dow input{
+    padding: 1.5vw;
+    padding-bottom: 0.4vw;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid orangered;
+    color: black;
+    font-size: 1.5rem;
+}
+.dow input:focus{
+    outline: none;
+    border-bottom: 1px solid green;
+}
+.dow p{
+    font-size: 1.8rem;
+}
+.ogaye{
+    height: 10vh;
+    width: 100%;
+    
+}
+.ogaye p{
+text-align: center;
+margin-top: 2vw;
+    
+}
