@@ -16,16 +16,22 @@ margin-bottom: 10vh;
 }
 .tech{
     color: white;
-    font-size: 1.5rem;
+    font-size: 2.5vw;
 }
 .dash button {
 height: 6vh;
-width: 20vh;
+width: 15vw;
     text-align: center;
 background-color: orangered;
 color: white;
 border-radius: 2vw;
 border: none;
+font-size: 2vw;
+}
+.dash button:hover{
+    background-color: thistle;
+    transform: rotate(10deg);
+    transition: 2s;
 }
 .star{
     display: flex;
@@ -41,6 +47,7 @@ border: none;
 }
 .infinite{
     color: white;
+    font-size: 2vw;
 }
 .center{
 
@@ -54,7 +61,7 @@ border: none;
     justify-content: center;
 }
 .word p{
-    font-size: 2.5rem;
+    font-size: 3.5vw;
     font-weight: lighter;
     margin-bottom: 3vh;
     
@@ -69,6 +76,7 @@ border: none;
     border-radius: 1vw;
     border: none;
     text-align: center;
+    font-size: 2vw;
 }
 
 .middle{
@@ -146,9 +154,15 @@ form button{
     width: 20vw;
     height: 5vw;
     color: white;
-    font-size: 2rem;
+    font-size: 2vw;
     border: none;
     border-radius: 2vw; 
+}
+form button:hover{
+
+    background-color: maroon;
+    transform: rotate(5deg);
+    transition: 4s;
 }
 .dow{
     display: flex;
@@ -170,7 +184,7 @@ form button{
     color: white;
     border: none;
     border-radius: 1vw;
-    font-size: 2rem;
+    font-size: 2vw;
 }
 .dow input{
     padding: 1.5vw;
@@ -179,14 +193,14 @@ form button{
     border: none;
     border-bottom: 1px solid orangered;
     color: black;
-    font-size: 1.5rem;
+    font-size: 2vw;
 }
 .dow input:focus{
     outline: none;
     border-bottom: 1px solid green;
 }
 .dow p{
-    font-size: 1.8rem;
+    font-size: 2vw;
 }
 .ogaye{
     height: 10vh;
