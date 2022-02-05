@@ -1,17 +1,17 @@
 # Portfolio
 ##### MICHAEL OGAYE
-### A decripition of landing page og beta insurance company
+### A description of a Quiz-board web app
 ## Table of Content
 + [Description](#description)
 + [Installation Requirement]( Requisites)
 + [Technology Used](technology-used)
-+ [Live-links] (#Live links)
++ [Live-links](#Livelinks)
 + [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#aut)
 ## Description
-<p>This is a design of an infinite Quizboard it brings the page interactivity by incoperating the script from javascript, the website as the quizboard that contains series of questions, the user  select the correct answer and the program decides to award point based on the correctness of the selection, the programs then collates the score and displays it back to the usr on the screen</p>
-![desktop](./images/Desktop.png) This is the desktop rendition
+<p>This is a design of a  Quizboard dubbed infinite it an interesting web-app that brings the aspect of user interactivity on board. Quizboard  contains series of questions, the user  select the correct answer and the program decides to award point based on the correctness of his or her choice, the programs then collates the score and displays it back to the user on the screen, and also comments if it is a poor or a good score.</p>
+
 ![mobile](./images/Mobile.png)  This is the mobile rendition
 ## set-up
 ### Vitals
