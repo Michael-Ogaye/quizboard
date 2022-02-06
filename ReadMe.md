@@ -16,7 +16,7 @@
 ## Design
 The design of the the infinite app, has a navigation bar, which contains icons an the dashboard where several where user can learn and answer questions, the design middle section cointains a banner,which is succeeded by a quizboard where questions and choices are layed out, at the footer we have a section for the user to subscribe to continue receiving such tasks.
 The actual design has been done using figma,and you can get a glimpse if you folllow this link.
-+ ![quiz-board](https://www.figma.com/file/VrIGz8LIiFX1WlHWyU55ts/QUIZ_DASHBOARD?node-id=22%3A19)
+ + [quiz-board](https://www.figma.com/file/VrIGz8LIiFX1WlHWyU55ts/QUIZ_DASHBOARD?node-id=22%3A19)
 
 
 ## set-up
