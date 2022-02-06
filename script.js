@@ -19,10 +19,11 @@ buton.addEventListener("click",(e)=>{
     if(q5 =="Yes"){i += 10}
 
 
-    var score= document.getElementsByClassName('score')
-    score.innerHtml= `<p> You have scored ${ i }`;
+    var sco = document.querySelector('.scora');
+    sco.innerHTML = `<p> You have scored ${ i }</p>`;
+    sco.style.display="block";
     var forma= document.quiz;
-    // forma.style.display = "none";
+    forma.style.display = "none";
     console.log(i);
 })
 

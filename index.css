@@ -212,3 +212,18 @@ text-align: center;
 margin-top: 2vw;
     
 }
+.scora{
+
+    margin: 5vw;
+    width: 80%;
+    background-color: cadetblue;
+    height: 10vw;
+    text-align: center;
+    display: none;
+}
+.scora p{
+
+    margin-top: 5%;
+    color: white;
+    font-size: 3.5vw;
+}
