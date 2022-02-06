@@ -16,7 +16,7 @@
 ## Design
 The design of the the infinite app, has a navigation bar, which contains icons an the dashboard where several where user can learn and answer questions, the design middle section cointains a banner,which is succeeded by a quizboard where questions and choices are layed out, at the footer we have a section for the user to subscribe to continue receiving such tasks.
 The actual design has been done using figma,and you can get a glimpse if you folllow this link.
-+ ![quiz-board]()
++ ![quiz-board](https://www.figma.com/file/VrIGz8LIiFX1WlHWyU55ts/QUIZ_DASHBOARD?node-id=22%3A19)
 
 
 ## set-up
@@ -32,12 +32,9 @@ The actual design has been done using figma,and you can get a glimpse if you fol
 * Javascript is used for inserting the script into our page, the script makes some logicla decisions and displays back the result back to the user
 ## The live link
 To get a demenonstration of the final deployment of my page please follow this link
-[live-link](https://michael-ogaye.github.io/insuarance/)
-## Reference
-  ### The reference materials used in this project can be accessed though this link
-  * [Resource](https://drive.google.com/drive/folders/1P8mNcot0tldytjyMBLDUJzpbN3i5cJ7O)
-  * [Reference-photo](https://drive.google.com/drive/folders/1LDQcoScKRuhTdd0DknqTEal1wi5mpAkk
-  )
+[live-link](https://michael-ogaye.github.io/quizboard/)
+
+  
 [Go Back to the top](#portfolio)
 ## Licence
 MIT License
