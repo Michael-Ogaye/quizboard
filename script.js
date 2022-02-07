@@ -24,8 +24,8 @@ buton.addEventListener("click",(e)=>{
     sco.style.display="block";
     var forma= document.quiz;
     forma.style.display = "none";
-    if( i < 30){sco.innerHTML += `<P> you failed this test,please refresh the page and try again </p>`}
-    if(i> 30){sco.innerHTML += `<p> CONGRATULATIONS!, you passed the test refresh the page and proceed</p>` }
+    if( i <30){sco.innerHTML += `<P> you failed this test,please refresh the page and try again </p>`}
+    if(i > 30){sco.innerHTML += `<p> CONGRATULATIONS!, you passed the test refresh the page and proceed</p>` }
 
 
     
