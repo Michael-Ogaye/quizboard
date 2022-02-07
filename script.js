@@ -24,6 +24,8 @@ buton.addEventListener("click",(e)=>{
     sco.style.display="block";
     var forma= document.quiz;
     forma.style.display = "none";
-    console.log(i);
+
+
+    
 })
 
