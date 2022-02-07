@@ -20,10 +20,12 @@ buton.addEventListener("click",(e)=>{
 
 
     var sco = document.querySelector('.scora');
-    sco.innerHTML = `<p> You have scored ${ i }</p>`;
+    sco.innerHTML = `<p> You have scored: ${ i }/50</p>`;
     sco.style.display="block";
     var forma= document.quiz;
     forma.style.display = "none";
+    if( i < 30){sco.innerHTML += `<P> you failed this test,please refresh the page and try again </p>`}
+    if(i> 30){sco.innerHTML += `<p> CONGRATULATIONS!, you passed the test refresh the page and proceed.</p>` }
 
 
     
